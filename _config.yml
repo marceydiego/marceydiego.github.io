@@ -1,0 +1,36 @@
+# site settings
+title: Marce y Diego
+subtitle: 21 de Marzo
+email: tio@gmail.com
+description:  <span class="icon alt fas fa-volume-up"></spam> ¡Amigos,<br /> Hay fiesta! <span class="icon alt fas fa-music"></spam>
+baseurl: "" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author:
+street_address: Bioy Casares 345
+city: La Punta
+state: San Luis
+zip_code: 55555
+country:
+phone: (000) 555-5555
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url: https://500px.com/Tio
+facebook_url: https://facebook.com/Tio
+github_url:
+gitlab_url:
+googleplus_url: https://plus.google.com/u/0/Tio
+instagram_url: https://instagram.com/Tio
+linkedin_url: https://www.linkedin.com/in/Tio
+pinterest_url: https://pinterest.com/Tio
+slack_url:
+twitter_url: https://twitter.com/Tio
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
