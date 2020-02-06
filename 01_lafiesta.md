@@ -19,8 +19,14 @@ nav-menu: true
 ![](assets/images/menu/Diapositiva8.JPG)
 ![](assets/images/menu/Diapositiva9.JPG)
 
-## Menú
-![](assets/images/menu/Diapositiva10.JPG)
+## Recepción/Entrada
+- Espumoso de kiwi, zumo de naranja, caramelo líquido y ron.
+- Limonadas naturales con frutas de estación.
+Sorrentinos capresse souflé en salsa pomodoro basílico y pesto de albahaca.
+- Quesadillas de pollo y carne vacuna a la chapa.
+- Bocaditos crocantes de cerdo y guacamole.
+- Variedad de crostinis.
+
 ![](assets/images/menu/Diapositiva11.JPG)
 ![](assets/images/menu/Diapositiva12.JPG)
 ![](assets/images/menu/Diapositiva13.JPG)
