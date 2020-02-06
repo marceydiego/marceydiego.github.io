@@ -6,8 +6,14 @@ image: assets/images/invitados.jpg
 nav-menu: true
 ---
 
-APELLIDO Y NOMBRE
------------------
+# Confirmar antes del 20/02/2020
+
+### Contactos
+- Marcela: 221 5220535
+- Diego: 266 4263446
+
+# Lista de invitados
+
 LARRE JUAN<BR>
 AGUIRRE BENGOA VERONICA<BR>
 FEMENIA ROBERTO<BR>
