@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: post-sin-img
 title: Invitación
 description:
-image:
+image: assets/images/mariposas.jpg
 nav-menu: true
 ---
 
