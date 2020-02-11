@@ -17,3 +17,6 @@ nav-menu: true
 
 # San Luis
 <a href="nosotros-san.luis.html"> <img src="assets/images/san.luis/VILLA.MERCEDES.jpg" alt="San Luis"></a>
+
+# Sicilia 2018
+<a href="nosotros-sicilia.2018.html"> <img src="assets/images/sicilia.2018/SICILIA-CATANIA-2018.2.JPG" alt="San Luis"></a>
