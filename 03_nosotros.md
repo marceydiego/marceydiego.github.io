@@ -32,3 +32,15 @@ nav-menu: true
 
 # Grupo 5 Liras
 <a href="nosotros-5liras.html"> <img src="assets/images/5liras/TURQUIA-GRECIA-2015.9.jpg" alt="5 Liras"></a>
+
+# India 2018
+<a href="nosotros-india.html"> <img src="assets/images/india/INDIA-2018.5.JPG" alt="India"></a>
+
+# México 2019
+<a href="nosotros-mexico.html"> <img src="assets/images/mexico/MEXICO-TAXCO-2019.jpg" alt="Mexico"></a>
+
+# Milán 2018
+<a href="nosotros-milan.html"> <img src="assets/images/milan/ITALIA-MILAN-2018.7.jpg" alt="Milan"></a>
+
+# Perú 2018
+<a href="nosotros-peru.html"> <img src="assets/images/peru/PERU-PISAC-2018.JPG" alt="Perú"></a>
