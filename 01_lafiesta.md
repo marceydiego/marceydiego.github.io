@@ -12,4 +12,4 @@ nav-menu: true
 
 # Menú
 
-<a href="ambiente.html"> <img src="assets/images/menu/menu23.png" alt="menu"></a>
+<a href="menu.html"> <img src="assets/images/menu/menu23.png" alt="menu"></a>

@@ -13,7 +13,6 @@ Sorrentinos capresse souflé en salsa pomodoro basílico y pesto de albahaca.
 - Bocaditos crocantes de cerdo y guacamole.
 - Variedad de crostinis.
 
-![](assets/images/menu/menu10.png)
 ![](assets/images/menu/menu11.png)
 ![](assets/images/menu/menu12.png)
 ![](assets/images/menu/menu13.png)
