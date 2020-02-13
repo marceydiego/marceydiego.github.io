@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Nosotros
 description:
 image: assets/images/nosotros.jpg
@@ -44,3 +44,21 @@ nav-menu: true
 
 # Perú 2018
 <a href="nosotros-peru.html"> <img src="assets/images/peru/PERU-PISAC-2018.JPG" alt="Perú"></a>
+
+# Brasil: Río de Janeiro y Pipa 2017
+<a href="nosotros-brasil.html"> <img src="assets/images/brasil/BRASIL-RIODEJANEIRO-2017.2.jpg" alt="Brasil"></a>
+
+# Córdoba 2016
+<a href="nosotros-cba.html"> <img src="assets/images/cba/CORDOBA-2016.jpg" alt="Cba"></a>
+
+# Colonia 2016
+<a href="nosotros-colonia.html"> <img src="assets/images/colonia/URUGUAY-COLONIA-2015.jpg" alt="Colonia"></a>
+
+# Crucero Islas Griegas 2017
+<a href="nosotros-islas.griegas.html"> <img src="assets/images/islas.griegas/TURQUIA-EFESO-2017.JPG" alt="Islas"></a>
+
+# Buenos Aires 2015 - 2019
+<a href="nosotros-bsas.html"> <img src="assets/images/bsas/BUENOSAIRES.9.JPG" alt="Bs As"></a>
+
+# Escandinavia y Rusia 2016
+<a href="nosotros-rusia.html"> <img src="assets/images/rusia/RUSIA-SANPETESBURGO-2016.jpg" alt="Rusia"></a>
