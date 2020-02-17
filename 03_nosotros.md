@@ -62,3 +62,6 @@ nav-menu: true
 
 # Escandinavia y Rusia 2016
 <a href="nosotros-rusia.html"> <img src="assets/images/rusia/RUSIA-SANPETESBURGO-2016.jpg" alt="Rusia"></a>
+
+# Andalucia y Portugal 2016
+<a href="nosotros-andalucia.html"> <img src="assets/images/andalucia/SEVILLA-2016.2.JPG" alt="Andalucia"></a>
